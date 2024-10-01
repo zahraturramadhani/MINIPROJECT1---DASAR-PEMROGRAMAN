@@ -69,8 +69,12 @@ Kelas: Sistem Informasi- A'2024
       
 
 5. Selanjutnya program akan menanyakan apakah user ingin menghitung ulang atau keluar dari aplikasi
-      
-   ![Cuplikan layar 2024-10-01 084612](https://github.com/user-attachments/assets/586b4b4a-66ee-4a61-b53c-8fd33f2a1de6)
+
+   * jika iya maka output nya adalah
+     ![Cuplikan layar 2024-10-01 102601](https://github.com/user-attachments/assets/286a1c65-9211-49f9-9ab2-49f022343c40)
+
+   * jika tidak maka output nya    
+     ![Cuplikan layar 2024-10-01 084612](https://github.com/user-attachments/assets/586b4b4a-66ee-4a61-b53c-8fd33f2a1de6)
 
 
 # Output Tiap Operasi
